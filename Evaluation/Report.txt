@@ -1,0 +1,14 @@
+=========================================== Report ===========================================
+
+This is only 3 evaluation forms from my friends, but I am happy that I had 27 downloads in Mediafire !
+A lot of people enjoyed my adventure game and the comments I got were very positive.
+I really enjoyed the way I built it, and the whole developing experience as well.
+I managed to deliver my almost final distribution a week before the deadline, that's why the comments were
+so positive, and some minor bugs were fixed.
+
+As an improvement, I would like to put some blood when the woman is killed, and to implement more rooms in version 2, as Antoniana says.
+The improvement that George Vasileiou suggests about the woman screaming sound has been now implemented !
+As a future implementation, the player will continue his / her adventures after killing Onyxia the dragon and ofcourse
+I will add more sounds as Zisis Anagnostou suggests. 
+Also, as George suggests, it may be useful for some users to follow this way of 'use': 
+Button("Use") -> JList sword -> character instead of JList sword -> Button("Use") -> character.
